@@ -1,0 +1,6 @@
+{
+  "discord_token": "{{ insert token }}",
+  "welcome_pack_channel": "{{ insert channel id }}",
+  "commands_channel": "{{ insert channel id }}",
+  "lotto_results_channel": "{{ insert channel id }}"
+}
